@@ -16,6 +16,12 @@ I enjoy working with data end to end — from cleaning and exploring raw dataset
 
 Currently strengthening: Pandas, SOL, Data Ananlytics.
 
+<div align="center">
+
+<img src="./Cat%20Girl%20GIF%20by%20Pluralsight.gif" width="350" alt="Animated Girl Coding">
+
+</div>
+
 ---
 
 <div align="center">
