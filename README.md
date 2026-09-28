@@ -4,6 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=E8A0BF&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Python+%7C+SQL;Turning+Data+into+Meaningful+Insights" alt="Typing Animation" />
 </div>
+ <div align="center">
+
+<img src="./Cat%20Girl%20GIF%20by%20Pluralsight.gif" width="500" alt="Animated Girl Coding">
+
+</div>
 
 ---
 
@@ -15,12 +20,6 @@ My work focuses on transforming raw data into structured insights through data c
 I enjoy working with data end to end — from cleaning and exploring raw datasets to building dashboards and delivering clear, actionable business insights that support data-driven decision-making. 
 
 Currently strengthening: Pandas, SOL, Data Ananlytics.
-
-<div align="center">
-
-<img src="./Cat%20Girl%20GIF%20by%20Pluralsight.gif" width="350" alt="Animated Girl Coding">
-
-</div>
 
 ---
 
